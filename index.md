@@ -13,7 +13,7 @@ description: Juego multijugador online
 
 # Trailer
 
-<iframe src="https://www.youtube.com/watch?v=cXs05yU9hYE" 
+<iframe src="https://youtu.be/cXs05yU9hYE?feature=shared" 
     width="560" 
     height="315"
     frameborder="0" 
