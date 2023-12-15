@@ -7,7 +7,7 @@ description: Detalles administrativos, equipo de desarrollo, documentación
 
 # Descripción
 
-Remake del icónico [**Worms**](https://es.wikipedia.org/wiki/Worms_(serie)) para sistemas operativos basados en Ubuntu, utilizando programacion concurrente orientada a objetos y sockets TCP/IPv4 bloqueantes.
+Remake del icónico [Worms](https://es.wikipedia.org/wiki/Worms_(serie)) para sistemas operativos basados en Ubuntu, utilizando programacion concurrente orientada a objetos y sockets TCP/IPv4 bloqueantes.
 
 Trabajo final de la materia Taller de Programación I (75.42) de la Facultad de Ingenieria de la Universidad de Buenos Aires.
 
