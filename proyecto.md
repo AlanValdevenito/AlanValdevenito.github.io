@@ -1,6 +1,6 @@
 ---
 title: Información acerca del proyecto
-description: Detalles administrativos, equipo de desarrollo, documentación
+description: Descripcion del proyecto, detalles administrativos, equipo de desarrollo y documentación
 ---
 
 <!-- ##################################################################### -->
