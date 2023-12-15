@@ -11,6 +11,8 @@ Remake del icónico [Worms](https://es.wikipedia.org/wiki/Worms_(serie)) para si
 
 Trabajo final de la materia Taller de Programación I (75.42) de la Facultad de Ingenieria de la Universidad de Buenos Aires.
 
+[Repositorio](https://github.com/AlanValdevenito/Worms)
+
 <!-- ##################################################################### -->
 
 # Detalles administrativos
