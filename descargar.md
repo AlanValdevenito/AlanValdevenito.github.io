@@ -51,6 +51,8 @@ $ ./client 127.0.0.1 8080
 
 # Documentacion 
 
-Para más informacion acerca de la ejecucion del juego y de la jugabilidad del mismo, se recomienda leer el [Manual de Usuario](https://github.com/AlanValdevenito/Worms/blob/main/documentacion/PDF/manual_de_usuario.pdf) el cual se encuentra en el repositorio del proyecto. Este provee una explicación mucho más detallada y con imágenes.
+Para más informacion acerca de la ejecucion del juego y de la jugabilidad del mismo, se recomienda leer el [Manual de Usuario](https://github.com/AlanValdevenito/Worms/blob/main/documentacion/PDF/manual_de_usuario.pdf) el cual se encuentra en el repositorio del proyecto. 
+
+Este provee una explicación mucho más detallada y con imágenes.
 
 <!-- ##################################################################### -->
