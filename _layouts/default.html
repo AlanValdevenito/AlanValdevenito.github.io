@@ -1,18 +1,31 @@
 <!DOCTYPE html>
 <html lang="es">
-  
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Página</title>
+</head>
 <body>
 
-<!-- Botones -->
-<div style="text-align: center; margin-top: 50px;">
-  <a href="https://AlanValdevenito.github.io/index.md" style="text-decoration: none; margin: 10px;">
-    <button style="padding: 10px 20px;">Inicio</button>
-  </a>
-  
-  <a href="https://AlanValdevenito.github.io/proyecto.md" style="text-decoration: none; margin: 10px;">
-    <button style="padding: 10px 20px;">Proyecto</button>
-  </a>
-</div>
+  <header>
+    <!-- Botones de navegación -->
+    <nav>
+      <ul>
+        <li><a href="{{ site.baseurl }}/index.html">Inicio</a></li>
+        <li><a href="{{ site.baseurl }}/proyecto.html">Proyecto</a></li>
+        <li><a href="{{ site.baseurl }}/descargar.html">Descargar</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Contenido principal de la página -->
+  <main>
+    <!-- Aquí puedes incluir el contenido principal de tu página -->
+    {{ content }}
+  </main>
+
+  <footer>
+    <!-- Pie de página -->
+  </footer>
 
 </body>
 </html>
