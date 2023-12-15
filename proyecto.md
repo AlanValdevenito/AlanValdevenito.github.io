@@ -17,8 +17,6 @@ El juego tiene una simulación física para la trayectoria de los misiles, las e
 
 La interfaz del jugador esta hecha utilizando las librerias de [QT](https://doc.qt.io/) y [SDL2pp](https://github.com/libSDL2pp/libSDL2pp) donde SDL2pp es una biblioteca de enlace C++ para SDL2, lo que significa que es una capa adicional que proporciona una API orientada a objetos en C++ para SDL2. 
 
-[Repositorio](https://github.com/AlanValdevenito/Worms)
-
 <!-- ##################################################################### -->
 
 # Detalles administrativos
