@@ -26,7 +26,7 @@ La interfaz del jugador esta hecha utilizando las **librerias de [QT](https://do
 * **Año y cuatrimestre:** 2C 2023
 * **Corrector:** [Martin Di Paola](https://github.com/eldipa)
 
-## Equipo de desarrollo
+# Equipo de desarrollo
 
 | Nombre y apellido | Padrón | Mail |
 |-------------------|--------|------|
