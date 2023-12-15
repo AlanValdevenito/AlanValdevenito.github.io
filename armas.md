@@ -5,7 +5,7 @@ description: Descripcion de las armas y herramientas disponibles
 
 <!-- ##################################################################### -->
 
-# Bazooka
+# ![bazooka](imgs/armas/bazooka.JPG) Bazooka
 
 Arma predilecta de los gusanos que dispara un misil que estalla al impactar con un tiro parabólico.
 
@@ -19,7 +19,7 @@ Caracteristicas:
 - Municiones: infinitas
 - Daño: 50 pts (epicentro); 2 mts (radio)
 
-# Mortero
+# ![mortero](imgs/armas/mortero.JPG) Mortero
 
 Es igual a la bazooka pero al estallar lanza fragmentos al aire con trayectoria parabólica que estallan al impactar.
 
@@ -35,7 +35,7 @@ Caracteristicas:
 - Daño (de cada fragmento): 10 pts (epicentro); 2 mts (radio)
 - Cantidad de fragmentos: 6
 
-# Granada Verde
+# ![granada-verde](imgs/armas/granada-verde.JPG) Granada Verde
 
 La segunda arma predilecta de los gusanos. Como otros tipos de granada no se ve afectada por el viento.
 
@@ -49,7 +49,7 @@ Caracteristicas:
 - Municiones: infinitas
 - Daño: 30 pts (epicentro); 2 mts (radio)
 
-# Granada Roja
+# ![granada-roja](imgs/armas/granada-roja.JPG) Granada Roja
 
 Al igual que el Mortero, al explotar lanza fragmentos al aire con tiro parabólico que estallan al impacto.
 
@@ -65,7 +65,7 @@ Caracteristicas:
 - Daño (de cada fragmento): 10 pts (epicentro); 2 mts (radio)
 - Cantidad de fragmentos: 6
 
-# Banana
+# ![banana](imgs/armas/banana.JPG) Banana
 
 Es un tipo de granada que tiene la particularidad de rebotar varias veces de forma muy elástica hasta explotar.
 
@@ -79,7 +79,7 @@ Caracteristicas:
 - Municiones: 5
 - Daño: 70 pts (epicentro); 4 mts (radio)
 
-# Granada Santa
+# ![granada-santa](imgs/armas/granada-santa.JPG) Granada Santa
 
 Una de las armas más poderosas en el arsenal. Justo antes de estallar, produce un sonido característico.
 
@@ -93,7 +93,7 @@ Caracteristicas:
 - Municiones: 2
 - Daño: 110 pts (epicentro); 8 mts (radio)
 
-# Dinamita
+# ![dinamita](imgs/armas/dinamita.JPG) Dinamita
 
 Al activarse, el gusano deja en el lugar una dinamita que estalla luego de cierta cantidad de segundos.
 
@@ -107,7 +107,7 @@ Caracteristicas:
 - Municiones: 5
 - Daño: 50 pts (epicentro); 4 mts (radio)
 
-# Bate de Baseball
+# ![bate-de-baseball](imgs/armas/bate-de-baseball.JPG) Bate de Baseball
 
 Al activarse el arma, el gusano batea lanzando a todo aquel cercano. La dirección de los gusanos lanzados dependerá de la dirección del bateo.
 
@@ -121,7 +121,7 @@ Caracteristicas:
 - Municiones: infinitas
 - Daño: 10 pts
 
-# Ataque Aereo
+# ![ataque-aereo](imgs/armas/ataque-aereo.JPG) Ataque Aereo
 
 Caen del cielo 6 misiles hacia el objetivo marcado por el jugador cada uno de ellos explotando independientemente. Los misiles pueden impactar antes si se encuentran en su trayectoria con algún otro objeto.
 
@@ -135,7 +135,7 @@ Caracteristicas:
 - Municiones: 2
 - Daño (por cada misil): 40 pts (epicentro); 2 mts (radio)
 
-# Teletransportación
+# ![teletransportacion](imgs/armas/teletransportacion.JPG) Teletransportación
 
 Al activarse la herramienta, el gusano puede teletransportarse a cualquier parte del escenario (salvo el interior de una viga).
 
