@@ -38,6 +38,8 @@ La interfaz del jugador esta hecha utilizando las **librerias de [QT](https://do
 
 # Documentación
 
-...
+* [Manual de Usuario](https://github.com/AlanValdevenito/Worms/blob/main/documentacion/PDF/manual_de_usuario.pdf)
+* [Documentacion tecnica](https://github.com/AlanValdevenito/Worms/blob/main/documentacion/PDF/documentacion_tecnica.pdf): Contiene la información necesaria para que otro desarrollador puede entender la arquitectura e incluso continuar con el desarrollo del proyecto.
+* [Manual de proyecto](https://github.com/AlanValdevenito/Worms/blob/main/documentacion/PDF/manual_de_proyecto.pdf): Indica en que trabajó cada integrante del equipo, como nos organizamos por semana y cuanto difirió del plan inicial.
 
 <!-- ##################################################################### -->
