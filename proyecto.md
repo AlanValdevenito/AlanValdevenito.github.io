@@ -9,9 +9,9 @@ description: Detalles administrativos, equipo de desarrollo, documentación
 
 Trabajo final de la materia **Taller de Programación I** de la **Facultad de Ingenieria de la Universidad de Buenos Aires**. 
 
-**El proyecto se inicio el 17/10/2023 y la entrega final del mismo fue el 5/12/2023**. En este tiempo como grupo nos coordinamos para trabajar, tuvimos reuniones de forma muy frecuente y plazos muy justos. **Como metodologia de trabajo aplicamos Scrum, donde dividimos el proyecto en iteraciones donde en cada una desarrollamos en equipo un mismo feature**.
-
 Consiste en una **remake del icónico [Worms](https://es.wikipedia.org/wiki/Worms_(serie))** para sistemas operativos basados en Ubuntu.
+
+**El proyecto se inicio el 17/10/2023 y la entrega final del mismo fue el 5/12/2023**. En este tiempo como grupo nos coordinamos para trabajar, tuvimos reuniones de forma muy frecuente y plazos muy justos. **Como metodologia de trabajo aplicamos Scrum, donde dividimos el proyecto en iteraciones donde en cada una desarrollamos en equipo un mismo feature**.
 
 Se utiliza **programacion concurrente orientada a objetos y sockets TCP/IPv4 bloqueantes**.
 
