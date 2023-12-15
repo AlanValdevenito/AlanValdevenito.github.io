@@ -1,13 +1,13 @@
 ---
 title: Worms 2D
-description: Juego multijugador online
+description: Taller de Programación I [2C 2023] 
 ---
 
 <!-- ##################################################################### -->
 
 # Descripción
 
-Worms es un videojuego de estrategia por turnos. El jugador controla un equipo de gusanos en combate contra equipos opuestos, controlados por otros jugadores, usando armas basadas en armas de la vida real y dibujos animados.
+Worms es un videojuego multijugador online de estrategia por turnos. El jugador controla un equipo de gusanos en combate contra equipos opuestos, controlados por otros jugadores, usando armas basadas en armas de la vida real y dibujos animados.
 
 El juego se basa en turnos, con cada equipo moviéndose en secuencia, que se determina al azar, a través de terreno bidimensional. Durante un solo turno, un equipo solo puede mover uno de sus gusanos. Los gusanos pueden caminar y saltar. El objetivo de una partida tradicional es derrotar a todos los equipos adversarios matando sus gusanos.
 
