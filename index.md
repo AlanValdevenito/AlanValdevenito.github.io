@@ -1,6 +1,6 @@
 ---
 title: Worms 2D
-description: Taller de Programación I [2C 2023] 
+description: Juego multijugador online donde los jugadores controlan un equipo de gusanos en combate contra equipos opuestos
 ---
 
 <!-- ##################################################################### -->
