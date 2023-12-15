@@ -9,7 +9,12 @@ description: Juego multijugador online donde los jugadores controlan un equipo d
 
 Worms es un **juego multijugador online de estrategia por turnos** cuyos escenarios están compuestos por vigas indestructibles. El jugador controla un **equipo de gusanos** en combate contra equipos opuestos, controlados por otros jugadores, usando armas basadas en armas de la vida real y dibujos animados.
 
-El juego se basa en turnos, con cada equipo moviéndose en secuencia, que se determina al azar, a través del terreno bidimensional. **Durante un solo turno, un equipo solo puede mover uno de sus gusanos**. Los gusanos pueden caminar y saltar. El objetivo de una partida tradicional es **derrotar a todos los equipos adversarios matando sus gusanos**.
+El juego se basa en turnos, con cada equipo moviéndose en secuencia, que se determina al azar, a través del terreno bidimensional. **Durante un solo turno, un equipo solo puede mover uno de sus gusanos**. Los gusanos pueden caminar y saltar. El turno del jugador termina si alguna de las siguientes condiciones se cumple:
+- Si el gusano activo sufre algún daño.
+- Si el gusano dispara o hace uso de una herramienta.
+- Si pasan más de 60 segundos.
+
+El objetivo de una partida tradicional es **derrotar a todos los equipos adversarios matando sus gusanos**. Si un jugador perdió, este es salteado en la ronda. El jugador que perdió puede seguir viendo la partida pero no puede hacer nada más en ella.
 
 Cada gusano comienza la ronda con una cantidad específica de salud, que está predefinida por el archivo de configuraciones. Cuando se ataca con un arma, el gusano atacado perderá salud dependiendo del poder del arma y la puntería. Un gusano puede ser eliminado por la explosión después de tener su salud reducida a cero o por haber caido al agua que se encuentra en la parte inferior del escenario. 
 
