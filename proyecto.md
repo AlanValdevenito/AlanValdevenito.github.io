@@ -32,7 +32,7 @@ La interfaz del jugador esta hecha utilizando las **librerias de [QT](https://do
 |-------------------|--------|------|
 | [Alan Valdevenito](https://github.com/AlanValdevenito) | 107585 | avaldevenito@fi.uba.ar |
 | [Mateo Julián Rico](https://github.com/ricomateo) | 108127 | mrico@fi.uba.ar |
-| [Federico Solari Vazquez](https://github.com/FedericoSolari) | 106895 | ... |
+| [Federico Solari Vazquez](https://github.com/FedericoSolari) | 106895 | fsolariv@fi.uba.ar |
 
 <!-- ##################################################################### -->
 
